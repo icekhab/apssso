@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSO", "SSO\SSO.csproj", "{226494B2-7F2A-4C5B-80A5-5142456E1442}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSO.Web1", "SSO.Web1\SSO.Web1.csproj", "{8EC9049B-2D15-4657-B31C-6E08E7A5F372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSO.Web2", "SSO.Web2\SSO.Web2.csproj", "{4127584B-EFD5-45B4-970E-0893F2CE9735}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{226494B2-7F2A-4C5B-80A5-5142456E1442}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{226494B2-7F2A-4C5B-80A5-5142456E1442}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{226494B2-7F2A-4C5B-80A5-5142456E1442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC9049B-2D15-4657-B31C-6E08E7A5F372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC9049B-2D15-4657-B31C-6E08E7A5F372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC9049B-2D15-4657-B31C-6E08E7A5F372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC9049B-2D15-4657-B31C-6E08E7A5F372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4127584B-EFD5-45B4-970E-0893F2CE9735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4127584B-EFD5-45B4-970E-0893F2CE9735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4127584B-EFD5-45B4-970E-0893F2CE9735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4127584B-EFD5-45B4-970E-0893F2CE9735}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
